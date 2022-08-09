@@ -1,2 +1,2 @@
-# weather_statistics
-Calculate barometric pressure trends [inHg/day] from a dataset
+# Barometric Pressure Statistics
+Calculate barometric pressure trends [inHg/day] from a dataset. 
